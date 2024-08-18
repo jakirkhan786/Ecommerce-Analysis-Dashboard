@@ -18,6 +18,7 @@ Step 5 : Analysis and interpretation of results.
 
 **Dashboard Design**
 
+![Wirecart Ecommerce_page-0001](https://github.com/user-attachments/assets/c3065feb-5463-4e51-96a1-cef966962812)
 
 **Key Features**
 
