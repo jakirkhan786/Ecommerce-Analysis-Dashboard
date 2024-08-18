@@ -1,4 +1,4 @@
-# Ecommerce-Analysis-Dashboard
+# Wire Cart Ecommerce Sales Analysis
 
 **Problem Statement**
 
@@ -6,19 +6,19 @@ To comprehensively track and analyze online sales data for Wire Cart, aiming to 
 
 **Steps Followed**
 
-Step 1 : Data collection and preparation.
+- Step 1 : Data collection and preparation.
 
-Step 2 : Data integration and management.
+- Step 2 : Data integration and management.
 
-Step 3 : Dashboard design and visualization.
+- Step 3 : Dashboard design and visualization.
 
-Step 4 : Implementation of interactive features.
+- Step 4 : Implementation of interactive features.
 
-Step 5 : Analysis and interpretation of results.
+- Step 5 : Analysis and interpretation of results.
 
 **Dashboard Design**
-
-![Wirecart Ecommerce_page-0001](https://github.com/user-attachments/assets/c3065feb-5463-4e51-96a1-cef966962812)
+  
+  ![Wirecart Ecommerce_page-0001](https://github.com/Sagarparkhe/Ecommerce-Sales-Analysis-Dashboard/assets/171353864/8f914692-c60c-4046-88f1-c26ffde08be0)
 
 **Key Features**
 
